@@ -10,7 +10,9 @@ h1{
 img{
 	padding-left: 500px;
 	height: 400px;
-	width: 300px;
+	width: 600px;
+	position: relative;
+	right: 110px;
 }
 p{
 	text-align: justify;
@@ -39,7 +41,7 @@ h2{
 .a2{
 	height: 400px;
 	width: 275px;
-	background-color: #ADE792;
+	background-color: #557A46;
 	float: left;
 }
 .a3{
@@ -52,7 +54,7 @@ h2{
 .a4{
 	height: 400px;
 	width: 275px;
-	background-color: #ADE792;
+	background-color: #557A46;
 	float: left;
 }
 
@@ -264,6 +266,7 @@ h6{
 	height: 900px;
 	width: 1350px;
 	background-color: skyblue;
+	margin-bottom: 30px;
 }
 .pic1{
 	height: 450px;
@@ -318,6 +321,7 @@ background-color: darkblue;
 	padding-top: 50px;
 	color: #557A46;
 	font-size: 40px;
+	text-align: left;
 }
 .busi{
 	padding: 30px;
@@ -331,10 +335,10 @@ background-color: darkblue;
 	position: static;
 }
 .pic22 img{
-	height: 400px;
-	width: 300px;
+	height: 450px;
+	width: 450px;
 	position: absolute;
-	right: 850px;
+	right: 773px;
 }
 .pic11{
 	height: 450px;
@@ -342,10 +346,10 @@ background-color: darkblue;
 	position: relative;
 }
 .pic11 img{
-	height: 400px;
-	width: 300px;
+	height: 450px;
+	width: 450px;
 	position: absolute;
-	right: 100px;
+	right: 1px;
 }
 
 .pic13{
@@ -354,10 +358,10 @@ background-color: darkblue;
 	position: relative;
 }
 .pic13 img{
-	height: 400px;
-	width: 300px;
+	height: 450px;
+	width: 450px;
 	position: absolute;
-	right: 100px;
+	right: 2px;
 }
 
 .ex{
@@ -374,20 +378,20 @@ background-color: darkblue;
 	position: relative; 
 }
 .exa{
-	height: 400px;
-	width: 400px;
+	height: 300px;
+	width: 300px;
 	float: right;
 	position: absolute;
 	right: 400px;
 	background-color: white;
-	top: 3950px;
+	top: 4000px;
 }
 .bold{
 	padding-top: 100px;
 	height: 700px;
 	width: 1350px;
 	background-color: #E9EDC9;
-	margin-top: 500px;
+	margin-top: 550px;
 	margin-bottom: 50px;
 }
 .hr1{
@@ -395,12 +399,14 @@ background-color: darkblue;
 
 }
 .p10{
-	font-size: 30px;
+	font-size: 20px;
+	text-align: left;
 }
 .p11{
 	font-family: serif;
 	font-size: 25px;
 	color: black;
+	text-align: left;
 }
 #hi{
 	padding-left: 520px;
@@ -432,4 +438,23 @@ background-color: darkblue;
 	font-family:sans-serif;
 	color: white;
 	font-size: 20px;
+}
+.bold11 img{
+	height: 600px;
+	width: 600px;
+	float: left;
+	position: relative;
+	right: 500px;
+	top: 30px;
+}
+.bold11{
+	height: 700px;
+	width: 675px;
+	float: left;
+}
+.bold12{
+	height: 700px;
+	width: 675px;
+	float: right;
+	text-align: left;
 }
